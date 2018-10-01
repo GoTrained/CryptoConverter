@@ -1,0 +1,26 @@
+{
+  "name": "crypto-converter-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "node-wit": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node basic.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizan1041/CryptoConverter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizan1041/CryptoConverter/issues"
+  },
+  "homepage": "https://github.com/faizan1041/CryptoConverter#readme",
+  "engines": {
+    "node": "8.12.0"
+  }
+}
